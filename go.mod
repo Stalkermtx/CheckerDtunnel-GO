@@ -1,4 +1,4 @@
-module github.com/PhoenixxZ2023/CheckerDtunnel-GO
+module Github.com/Cyber-ssh/CheckerDtunnel-GO
 
 go 1.21.6
 
