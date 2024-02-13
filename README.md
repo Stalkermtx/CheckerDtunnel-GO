@@ -1,7 +1,7 @@
 # CHECKUSER 🕵️‍♂️
 
 ## Autor da Copia KKKKK
-StartNetOfc  ([CYBERCOARI](https://t.me/StartNetOfc))
+StartNetOfc  ([StarNetOfc](https://t.me/StartNetOfc))
 
 ## COMPILAÇÃO E EXECUÇÃO 🚀
 ```bash
