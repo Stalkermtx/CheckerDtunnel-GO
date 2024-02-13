@@ -1,7 +1,7 @@
 # CHECKUSER 🕵️‍♂️
 
-## Autor
-CYBERCOARI  ([CYBERCOARI](https://t.me/cybercoari))
+## Autor da Copia KKKKK
+StartNetOfc  ([CYBERCOARI](https://t.me/StartNetOfc))
 
 ## COMPILAÇÃO E EXECUÇÃO 🚀
 ```bash
@@ -17,7 +17,7 @@ go build -ldflags="-w -s" -o checkuser ./src
 ## INSTALAÇÃO NO SEU SERVIDOR 🛠️
 Escolha a opção 1:
 ```
-bash <(curl -sL https://raw.githubusercontent.com/Cyber-ssh/CheckerDtunnel-GO/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/Stalkermtx/CheckerDtunnel-GO/main/install.sh)
 ```
 
 ## INSTALAÇÃO NO SEU SERVIDOR 🛠️
